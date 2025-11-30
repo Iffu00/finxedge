@@ -1,2 +1,17 @@
 # finxedge
 FinXEdge - AI Wealth &amp; Crypto Insights (MVP)
+{
+  "name": "finxedge-frontend",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "next dev -p 3000",
+    "build": "next build",
+    "start": "next start -p 3000"
+  },
+  "dependencies": {
+    "next": "13.4.7",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "swr": "2.2.0"
+  }
+}
