@@ -1,5 +1,3 @@
-# finxedge
-FinXEdge - AI Wealth &amp; Crypto Insights (MVP)
 {
   "name": "finxedge-frontend",
   "version": "0.1.0",
