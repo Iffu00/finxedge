@@ -6,7 +6,7 @@ FinXEdge - AI Wealth &amp; Crypto Insights (MVP)
   "scripts": {
     "dev": "next dev -p 3000",
     "build": "next build",
-    "start": "next start -p 3000"
+    "start": "next start -p $PORT"
   },
   "dependencies": {
     "next": "13.4.7",
